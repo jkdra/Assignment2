@@ -1,0 +1,23 @@
+# ninja log v6
+6	677	1727456924518322136	CMakeFiles/Assignment2.dir/InitBoard.cpp.o	e065cb094291ee7e
+388	431	1727461452044235562	Assignment2	3c6ef0b5672f7540
+4	388	1727461451659622171	CMakeFiles/Assignment2.dir/main.cpp.o	e9c712ac086b5360
+6	680	1727456924517714214	CMakeFiles/Assignment2.dir/DisplayBoard.cpp.o	5fa54ccfa0140500
+4	473	1727457102413844542	CMakeFiles/Assignment2.dir/GetPlayers.cpp.o	c25d5b3c0f4e79e9
+6	481	1727461415640119250	CMakeFiles/Assignment2.dir/CheckWin.cpp.o	79133a45b9106040
+6	648	1727456924517865757	CMakeFiles/Assignment2.dir/OutputInstruct.cpp.o	bc00698cb678c47f
+5	526	1727458325950890228	CMakeFiles/Assignment2.dir/GetAndCheckInp.cpp.o	ab0043f8cd07ec92
+648	1072	1727456925160051598	CMakeFiles/Assignment2.dir/SwitchToken.cpp.o	a2d197d68335c28d
+680	1116	1727456925191870873	CMakeFiles/Assignment2.dir/OutputWinner.cpp.o	945303d41a3cf742
+5	782	1727462434796286905	CMakeFiles/Assignment2.dir/OutputInstruct.cpp.o	bc00698cb678c47f
+4	783	1727462434795552585	CMakeFiles/Assignment2.dir/main.cpp.o	e9c712ac086b5360
+5	784	1727462434796062075	CMakeFiles/Assignment2.dir/DisplayBoard.cpp.o	5fa54ccfa0140500
+6	786	1727462434796577482	CMakeFiles/Assignment2.dir/GetPlayers.cpp.o	c25d5b3c0f4e79e9
+6	787	1727462434796710605	CMakeFiles/Assignment2.dir/GetAndCheckInp.cpp.o	ab0043f8cd07ec92
+5	796	1727462434796437152	CMakeFiles/Assignment2.dir/InitBoard.cpp.o	e065cb094291ee7e
+786	1195	1727462435576574831	CMakeFiles/Assignment2.dir/ComputerAlgorithm.cpp.o	cb980ce68d8d858e
+782	1196	1727462435573210437	CMakeFiles/Assignment2.dir/SwitchToken.cpp.o	a2d197d68335c28d
+783	1196	1727462435574196585	CMakeFiles/Assignment2.dir/CheckWin.cpp.o	79133a45b9106040
+787	1208	1727462435578158301	CMakeFiles/Assignment2.dir/MainMenu.cpp.o	9a62cc05d8e1f617
+784	1210	1727462435575487768	CMakeFiles/Assignment2.dir/OutputWinner.cpp.o	945303d41a3cf742
+1210	1321	1727462436001073790	Assignment2	c5963c6ae1e8f686
