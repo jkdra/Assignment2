@@ -13,9 +13,9 @@ using namespace std;
 
 int main() {
 
-    char boardAr[BOARD_SIZE][BOARD_SIZE]; // tic-tac-toe board
-    string playerX; // player X’s name
-    string playerO; // player O’x name
+    char boardAr[BOARD_SIZE][BOARD_SIZE]; // CALC - tic-tac-toe board
+    string playerX;                       // IN - player X’s name
+    string playerO;                       // IN - player O’x name
     char winner;
     int selection;
 
@@ -29,6 +29,7 @@ int main() {
         if (winner != ' ') {
             DisplayBoard(boardAr);
             OutputWinner(winner, playerX, playerO);
+            InitBoard(boardAr);
             MainMenu(selection, playerX, playerO);
         }
         if (selection == 1) {
@@ -41,6 +42,7 @@ int main() {
         if (winner != ' ') {
             DisplayBoard(boardAr);
             OutputWinner(winner, playerX, playerO);
+            InitBoard(boardAr);
             MainMenu(selection, playerX, playerO);
         }
     } while (selection != 3);

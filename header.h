@@ -1,3 +1,12 @@
+/*
+ * AUTHOR : Jawad Khadra
+ * STUDENT ID : 1312092 (IVC)
+ * ASSIGNMENT #2 : Tic Tac Toe
+ * CLASS : CS1B
+ * SECTION : MW: 7:30p - 9:50p
+ * DUE DATE : September 27, 2024
+ */
+
 #ifndef TICTACHEADER_H_
 #define TICTACHEADER_H_
 #include <iostream>
