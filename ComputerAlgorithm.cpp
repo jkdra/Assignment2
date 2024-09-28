@@ -4,7 +4,15 @@
 
 #include "header.h"
 
-// Function to make a computer move
+/*
+ * ComputerAlgorithm
+ * This function takes in a tic-tac-toe board and a computer character and
+ * a player character. It then checks if the computer can win, if the player
+ * can win, if the game is tied, and if not, it will make a random move.
+ *
+ * RETURNS: nothing
+ * Acts as the computer
+ */
 void ComputerAlgorithm(char boardAr[][BOARD_SIZE], char computerChar, char playerChar) {
 
     // First, check if the computer can win

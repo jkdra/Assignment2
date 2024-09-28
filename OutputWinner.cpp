@@ -21,4 +21,6 @@ void OutputWinner(char whoWon, // IN - represents the winner or a value
     else if (whoWon == 'O') cout << "Congratulations " << playerO << "! You have won!\n";
     else cout << "It's a tie!\n";
 
+    cout << "\n\nPlease press any key to continue...\n";
+    cin.ignore();
 }
